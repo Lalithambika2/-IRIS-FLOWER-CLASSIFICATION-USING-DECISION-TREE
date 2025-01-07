@@ -54,3 +54,7 @@
     The model achieved high accuracy in classifying Iris species.
     The Decision Tree visualization provided clear insights into the decision-making process.
     Key evaluation metrics like confusion matrix and classification report indicated reliable performance.
+
+## **License**
+
+This project is licensed under the [MIT License] (LICENSE).
